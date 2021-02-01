@@ -1,3 +1,3 @@
 #-*- coding:utf-8 -*-
 
-bbb = 'bB'
+name = 'sub2 name'
