@@ -1,0 +1,2 @@
+
+nameB = 'bbbb'
